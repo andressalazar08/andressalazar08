@@ -5,7 +5,7 @@ Ingeniero Industrial y estudiante de Ingeniería de Sistemas
 
 ➡ En Trailhead (Salesforce) me encuentras aquí: https://trailblazer.me/id/felipesalazar
 🏆Mi portafolio lo encuentras aquí: https://andresfelipe.dev
-mi email es esta: hi@andresfelipe.dev
+mi email es este: hi@andresfelipe.dev
 
 💻 Me gusta desarrollar soluciones en ambientes web para clientes empresariales
 🚀 Tengo experiencia manejando equipos de desarrollo de software y he participando como desarrollador full stack para un proyecto real.
