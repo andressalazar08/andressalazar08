@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Soy Desarrollador web full stack & Trailblazer student (Salesforce ⛅)
+Soy Desarrollador web full stack
 Ingeniero Industrial y estudiante de Ingeniería de Sistemas
 
-➡ En Trailhead (Salesforce) me encuentras aquí: https://trailblazer.me/id/felipesalazar
+
 🏆Mi portafolio lo encuentras aquí: https://andresfelipe.dev
 mi email es este: hi@andresfelipe.dev
 
