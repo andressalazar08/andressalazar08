@@ -13,7 +13,7 @@ mi email es este: hi@andresfelipe.dev
 
 He tenido experiencia trabajando en distintos proyectos de integración de aplicaciones web para distintas empresas a través de una empresa de consultoría que es un emprendimiento propio. 
 
-He trabajado en proyectos reales a nivel full stack utilizando tecnologías como React & Next.js para un proyecto de un club deportivo en Argentina.
+He trabajado en proyectos reales a nivel full stack utilizando tecnologías como React & Next.js para diferentes proyectos.
 
 He utilizado lenguajes como Python y frameworks como Django para implementar soluciones de analítica de datos y procesos empresariales.
 <!--
